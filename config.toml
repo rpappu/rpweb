@@ -1,0 +1,194 @@
+# The URL of your website.
+baseurl = "/"
+title = "Ravi Pappu"
+copyright = "&copy; Ravi Pappu 2018"
+theme = "academic"
+enableEmoji = false
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 3
+
+
+[outputs]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
+
+
+[params]
+  # AUTHOR SETUP
+  name = "Ravi Pappu"
+  role = "CTO"
+
+  # Organizations/Affiliations.
+  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  organizations = [ { name = "InQTel", url = "http://iqt.org" }]
+
+  avatar = "rp-profile.png"  # delete value to disable avatar.
+
+  # Details for the Contact Widget
+  email = "pappu@alum.mit.edu"
+  github = "rpappu"
+  linkedin = "http://www.linkedin.com/in/ravipappu"
+
+  # SITE SETUP
+  color_theme = ""
+  font = ""
+  # Description for social sharing and search engines.
+  description = ""
+  # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+  sharing_image = ""
+  date_format = "2 Jan, 2006"
+  time_format = "15:04"
+
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = ["style.css"]
+  custom_js  = ["script.js"]
+
+  # Enable comments by entering your Disqus shortname
+  #disqusShortname = "melvidoni"
+
+  # Enable analytics by entering your Google Analytics tracking ID
+  #GoogleAnalytics = "UA-129346054-1"
+
+  # Highlight for code
+  highlight = true
+  highlight_languages = ["r", "yaml", "java", "css", "javascript"]
+  highlight_style = "atelier-cave-light"
+  highlight_version = "9.12.0"
+
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+#  publication_types = [
+#    'Uncategorized',  # 0
+#    'Academic Journals',  # 1
+#    'Book',  # 2
+#    'Book Chapter',  # 3
+#    'Conf. Proceedings (Int.)',  # 4
+#    'Conf. Proceedings (Arg.)', # 5
+#    'Work in Progress',  # 6
+#    'Technical Report'  # 7
+#  ]
+
+  publication_types = [
+    'Uncategorized',
+    'Conf. Proceedings',
+    'Academic Journals',
+    'Work in Progress',
+    'Technical Report',
+    'Book',
+    'Book Chapter'
+]
+
+  [taxonomies]
+    tag = "tags"
+    category = "categories"
+    publication_type = "publication_types"
+
+
+   # Configuration of publication pages.
+  [params.publications]
+    date_format = "January, 2006"
+
+
+  # Configuration of project pages.
+  [params.projects]
+    list_children = true
+    post_format = 2
+    publication_format = 2
+    talk_format = 2
+
+
+
+  # Social/Academic Networking
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:pappu@alum.mit.edu"
+
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fab"
+#    link = "//twitter.com/melvidoni"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com.au/citations?user=h8YeWokAAAAJ&hl=en"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/rpappu"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://linkedin.com/in/ravipappu"
+
+  [[params.social]]
+    icon = "receipt"
+    icon_pack = "fas"
+    link = "https://patents.google.com/?inventor=Ravikanth+Pappu,Ravi+Pappu&num=25&sort=new"
+
+#    icon = "publons"
+#    icon_pack = "ai"
+#    link = "https://publons.com/author/1234715/melina-vidoni"
+
+    [params.menus]
+      # Align the main menu to the right of the page? (true/false)
+      align_right = true
+
+    [[menu.main]]
+      name = "Home"
+      url = "#about"
+      weight = 1
+
+
+    [[menu.main]]
+      name = "Publications"
+      url = "/publication"
+      weight = 4
+
+#    [[menu.main]]
+#      name = "Projects"
+#      url = "#projects"
+#      weight = 3
+
+
+#    [[menu.main]]
+#      name = "Teaching"
+#      url = "#teaching"
+#      weight = 4
+
+    # [[menu.main]]
+    #   name = "Posts"
+    #   url = "/post"
+    #   weight = 3
+
+
+    [[menu.main]]
+      name = "Talks"
+      url = "/talk"
+      weight = 5
+
+      [[menu.main]]
+        name = "Patents"
+        url = "https://patents.google.com/?inventor=Ravikanth+Pappu,Ravi+Pappu&num=25&sort=new"
+        weight = 6
+
+    [[menu.main]]
+      name = "Contact"
+      url = "#contact"
+      weight = 7
