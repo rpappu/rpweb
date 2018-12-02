@@ -1,6 +1,6 @@
 +++
 title = "Reality Search Engines"
-date = 2008 # Schedule page publish date.
+date = 2008-06-01T00:00:00-05 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
