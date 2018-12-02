@@ -1,24 +1,23 @@
 +++
-title = "Technology Genomes and Innovation"
-date = 2018-04-12T09:38:54-05:00  # Schedule page publish date.
+title = "5G and Me - an introductory podcast on 5G"
+date = 2018-11-02T11:04:23-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#  time_start = 2018-12-02T09:38:54-05:00
-#  time_end = 2018-12-02T09:38:54-05:00
+# time_start = 2018-12-02T11:04:23-05:00
+# time_end = 2018-12-02T11:04:23-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Pappu"]
+authors = ["R. Pappu and V. Sandesara"]
 
 # Abstract and optional shortened version.
-abstract = "I gave this talk on how InQTel uses graph databases to help us navigate the Mission Economy - the connection between startups, problems faced by the Intelligence Community, and the evolution of technology capabilities. The slides for this event are not public, but a case study (see link below) was published by Neo4j."
-
+abstract = "This is a 25-minute podcast I did at InQTel to educate our customers on the upcoming 5G wireless standards and how it might affect the average person."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Neo4j Graphtour"
-event_url = "https://www.eventbrite.com/e/graphtour-washington-dc-tickets-43101288113"
+event = ""
+event_url = ""
 
 # Location of event.
 location = ""
@@ -44,14 +43,14 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Innovation", "Graph databases"]
+tags = ["5G","wireless"]
 
 # Links (optional).
 url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
-url_custom = [{name = "Whitepaper", url = "https://go.neo4j.com/rs/710-RRC-335/images/Neo4j-case-study-In-Q-Tel-EN-US.pdf?_ga=2.255500232.1715507714.1543692142-412101514.1543692142"}]
+url_custom = [{name = "Podcast", url = "https://soundcloud.com/user-313491606/03-5g-and-me"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -63,4 +62,3 @@ url_custom = [{name = "Whitepaper", url = "https://go.neo4j.com/rs/710-RRC-335/i
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-[Link to case study](https://go.neo4j.com/rs/710-RRC-335/images/Neo4j-case-study-In-Q-Tel-EN-US.pdf?_ga=2.255500232.1715507714.1543692142-412101514.1543692142)
