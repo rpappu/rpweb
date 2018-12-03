@@ -88,7 +88,8 @@ paginate = 3
     'Work in Progress',
     'Technical Report',
     'Book',
-    'Book Chapter'
+    'Book Chapter',
+    'Theses'
 ]
 
   [taxonomies]
