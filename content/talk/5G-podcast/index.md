@@ -16,7 +16,7 @@ abstract = "This is a 25-minute podcast I did at InQTel to educate our customers
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "InQTel podcast"
 event_url = ""
 
 # Location of event.

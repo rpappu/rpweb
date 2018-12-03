@@ -16,7 +16,7 @@ abstract = "I have give this talk several times over the past decade. It's prima
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "Multiple locations"
 event_url = ""
 
 # Location of event.

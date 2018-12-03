@@ -16,7 +16,7 @@ abstract = "Modern cryptographic practice rests on the use of one-way functions,
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Security Seminar, "
+event = "Security Seminar, Cambridge University, UK"
 event_url = ""
 
 # Location of event.

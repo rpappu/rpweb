@@ -16,7 +16,7 @@ abstract = "A Google Tech Talk in Cambridge, MA. I spoke about how passive RFID 
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "Google Tech Talk"
 event_url = ""
 
 # Location of event.

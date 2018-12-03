@@ -1,26 +1,26 @@
 +++
-title = "The Physics of RFID"
-date = 2011-06-28T12:06:44-05:00  # Schedule page publish date.
+title = "Deep Learning: Promise and Pitfalls"
+date = 2018-01-31T08:30:00-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# time_start = 2018-12-02T12:11:44-05:00
-# time_end = 2018-12-02T12:11:44-05:00
+# time_start = 2018-12-03T05:08:27-05:00
+# time_end = 2018-12-03T05:08:27-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Pappu, M. Reynolds"]
+authors = ["R. Pappu"]
 
 # Abstract and optional shortened version.
-abstract = "Matt Reynolds and I gave a tutorial on the physics of RFID and UHF protocols at the RFID Security Workshop in June, 2011."
+abstract = "I moderated a panel at the Northern Virginia Technology Council on the promise and panels of Deep Learning."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "RFID Security Workshop, 2011"
-event_url = ""
+event = "NVTC Tech Titans 2018"
+event_url = "https://www.nvtc.org/events/geteventinfo.php?event=Titan-62&event=Titan-62"
 
 # Location of event.
-location = "Amherst, MA"
+location = "Arlington, VA"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -48,8 +48,9 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://vimeo.com/27534223"
+url_video = "https://www.youtube.com/watch?time_continue=37&v=7bsPTZ4UeCI"
 url_code = ""
+url_custom = [{name = "Blog post", url = "http://blog.nvtc.org/index.php/category/events/titans/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
