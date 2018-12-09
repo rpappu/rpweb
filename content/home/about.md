@@ -46,6 +46,8 @@ Prior to this, as a platform architect at [Trimble Navigation](https://www.trimb
 
 As a scientist (Ph.D., MIT 2001), I have worked on [original and influential contributions](https://scholar.google.com.au/citations?user=h8YeWokAAAAJ&hl=en) to several fields. I am a science/technology/mathematics omnivore and really enjoy bringing my skills to bear on solving challenging problems at the intersection of science, technology, and product development. I am equally comfortable synthesizing a technology/product vision as I am executing it.
 
+CV
+
 [Work Experience (pdf)](https://github.com/rpappu/resume/blob/master/Ravi-Pappu-Work-Experience.pdf) &#8226; [Research/Teaching/Publications (pdf)](https://github.com/rpappu/resume/blob/master/Ravi-Pappu-Research-Teaching-Publications.pdf)
 
 ### Selected awards
