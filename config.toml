@@ -187,7 +187,7 @@ paginate = 3
 
       [[menu.main]]
         name = "Patents"
-        url = "https://patents.google.com/?inventor=Ravikanth+Pappu,Ravi+Pappu&num=25&sort=new"
+        url = "https://www.lens.org/lens/search?n=50&q=&st=true&l=en&npl=&notNpl=&applicant=&notApplicant=&inventor=PAPPU%20RAVIKANTH,PAPPU%20RAVIKANTH%20SRINIVASA,PAPPU%20RAVIKANTH%20S&notInventor=&inventorF=%22Pappu%20Ravikanth%22~2&owner=&notOwner=&tags=&dates=&types=Patent%20Application,Granted%20Patent&notTypes=&j=&notJ=&fj=&notFj=&classIpcr=&notClassIpcr=&classNat=&notClassNat=&classCpc=&notClassCpc=&so=&notSo=&sat=&p=0&s=pub_date&d=-""
         weight = 4
 
     # [[menu.main]]
