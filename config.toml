@@ -97,7 +97,6 @@ paginate = 3
     category = "categories"
     publication_type = "publication_types"
 
-
    # Configuration of publication pages.
   [params.publications]
     date_format = "January, 2006"
@@ -109,8 +108,6 @@ paginate = 3
     post_format = 2
     publication_format = 2
     talk_format = 2
-
-
 
   # Social/Academic Networking
   [[params.social]]
@@ -144,6 +141,7 @@ paginate = 3
     #link = "https://patents.google.com/?inventor=Ravikanth+Pappu,Ravi+Pappu&num=25&sort=new"
     link = "https://www.lens.org/lens/search?n=50&q=&st=true&l=en&npl=&notNpl=&applicant=&notApplicant=&inventor=PAPPU%20RAVIKANTH,PAPPU%20RAVIKANTH%20SRINIVASA,PAPPU%20RAVIKANTH%20S&notInventor=&inventorF=%22Pappu%20Ravikanth%22~2&owner=&notOwner=&tags=&dates=&types=Patent%20Application,Granted%20Patent&notTypes=&j=&notJ=&fj=&notFj=&classIpcr=&notClassIpcr=&classNat=&notClassNat=&classCpc=&notClassCpc=&so=&notSo=&sat=&p=0&s=pub_date&d=-"
 
+
 #    icon = "publons"
 #    icon_pack = "ai"
 #    link = "https://publons.com/author/1234715/melina-vidoni"
@@ -161,12 +159,12 @@ paginate = 3
     [[menu.main]]
       name = "Publications"
       url = "/publication"
-      weight = 2
+      weight = 4
 
-#    [[menu.main]]
-#      name = "Projects"
-#      url = "#projects"
-#      weight = 3
+    [[menu.main]]
+      name = "Projects"
+      url = "/project"
+     weight = 3
 
 
 #    [[menu.main]]
@@ -179,18 +177,24 @@ paginate = 3
     #   url = "/post"
     #   weight = 3
 
-
     [[menu.main]]
       name = "Talks"
       url = "/talk"
-      weight = 3
+      weight = 2
 
-      [[menu.main]]
+    [[menu.main]]
         name = "Patents"
         url = "https://www.lens.org/lens/search?n=50&q=&st=true&l=en&npl=&notNpl=&applicant=&notApplicant=&inventor=PAPPU%20RAVIKANTH,PAPPU%20RAVIKANTH%20SRINIVASA,PAPPU%20RAVIKANTH%20S&notInventor=&inventorF=%22Pappu%20Ravikanth%22~2&owner=&notOwner=&tags=&dates=&types=Patent%20Application,Granted%20Patent&notTypes=&j=&notJ=&fj=&notFj=&classIpcr=&notClassIpcr=&classNat=&notClassNat=&classCpc=&notClassCpc=&so=&notSo=&sat=&p=0&s=pub_date&d=-"
-        weight = 4
+        weight = 5
 
-    # [[menu.main]]
+    [[menu.main]]
     #   name = "Contact"
     #   url = "#contact"
     #   weight = 7
+
+    [params.search]
+      # Search provider:
+      #   0: No search engine
+      #   1: Built-in (Fuse)
+      #   2: Algolia (https://www.algolia.com)
+      engine = 1
