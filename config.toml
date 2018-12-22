@@ -121,6 +121,11 @@ paginate = 3
 #    link = "//twitter.com/melvidoni"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://linkedin.com/in/ravipappu"
+
+  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com.au/citations?user=h8YeWokAAAAJ&hl=en"
@@ -129,11 +134,6 @@ paginate = 3
     icon = "github"
     icon_pack = "fab"
     link = "//github.com/rpappu"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "https://linkedin.com/in/ravipappu"
 
   [[params.social]]
     icon = "receipt"
