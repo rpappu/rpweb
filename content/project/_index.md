@@ -49,4 +49,4 @@ filter_default = 0
   tag = "Demo"
 
 +++
-Links to selected public projects are provided here. More will be added in due course.
+Links to selected public projects are provided here. I'll add more in due course.
