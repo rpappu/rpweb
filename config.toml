@@ -192,9 +192,9 @@ paginate = 3
     #   url = "#contact"
     #   weight = 7
 
-    [params.search]
+    #[params.search]
       # Search provider:
       #   0: No search engine
       #   1: Built-in (Fuse)
       #   2: Algolia (https://www.algolia.com)
-      engine = 0
+      #engine = 0
