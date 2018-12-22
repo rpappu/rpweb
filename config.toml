@@ -187,7 +187,7 @@ paginate = 3
         url = "https://www.lens.org/lens/search?n=50&q=&st=true&l=en&npl=&notNpl=&applicant=&notApplicant=&inventor=PAPPU%20RAVIKANTH,PAPPU%20RAVIKANTH%20SRINIVASA,PAPPU%20RAVIKANTH%20S&notInventor=&inventorF=%22Pappu%20Ravikanth%22~2&owner=&notOwner=&tags=&dates=&types=Patent%20Application,Granted%20Patent&notTypes=&j=&notJ=&fj=&notFj=&classIpcr=&notClassIpcr=&classNat=&notClassNat=&classCpc=&notClassCpc=&so=&notSo=&sat=&p=0&s=pub_date&d=-"
         weight = 5
 
-    [[menu.main]]
+    #[[menu.main]]
     #   name = "Contact"
     #   url = "#contact"
     #   weight = 7
@@ -197,4 +197,4 @@ paginate = 3
       #   0: No search engine
       #   1: Built-in (Fuse)
       #   2: Algolia (https://www.algolia.com)
-      engine = 1
+      engine = 0
