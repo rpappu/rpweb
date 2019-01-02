@@ -18,4 +18,4 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-With several other very smart people (Wendy Plesniak, Yael Maguire, Jason Taylor, Saul Griffith, Tim Prestero, Ben Vigoda), I co-founded [ThinkCycle](https://opensource.com/life/10/8/incubators) while at MIT. This was an effort to harness the "think cycles" of talent in the developed world to work on problems in the developing world. Tim Prestero has taken the idea to [amazing new heights](https://www.designthatmatters.org/).
+With several very smart people (Wendy Plesniak, Yael Maguire, Jason Taylor, Saul Griffith, Tim Prestero, Ben Vigoda), I co-founded [ThinkCycle](https://opensource.com/life/10/8/incubators) while at MIT. This was an effort to harness the "think cycles" of talent in the developed world to work on problems in the developing world. Tim Prestero has taken the idea to [amazing new heights](https://www.designthatmatters.org/).

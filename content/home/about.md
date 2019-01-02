@@ -48,11 +48,9 @@ As a scientist (Ph.D., MIT 2001), I have worked on [original and influential con
 
 My [Erdos Number](https://oakland.edu/enp/thedata/) is 3. (Paul Erdos &#8594; Leonard Schulman &#8594; Benjamin Recht &#8594; Ravi Pappu)
 
-
-
 ### CV
 
-[Work Experience (pdf)](https://github.com/rpappu/resume/blob/master/Ravi-Pappu-Work-Experience.pdf) &#8226; [Research/Teaching/Publications (pdf)](https://github.com/rpappu/resume/blob/master/Ravi-Pappu-Research-Teaching-Publications.pdf)
+{{% staticref "files/cv/Ravi-Pappu-Work-Experience.pdf" %}}Work Experience (pdf){{% /staticref %}} &#8226; {{% staticref "files/cv/Ravi-Pappu-Research-Teaching-Publications.pdf" %}}Research, Teaching, and Publications (pdf){{% /staticref %}}
 
 ### Selected awards
 
