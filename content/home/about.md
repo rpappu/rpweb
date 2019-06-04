@@ -50,7 +50,8 @@ My [Erdos Number](https://oakland.edu/enp/thedata/) is 3. (Paul Erdos &#8594; Le
 
 ### CV
 
-{{% staticref "files/cv/Ravi-Pappu-Work-Experience.pdf" %}}Work Experience (pdf){{% /staticref %}} / 
+{{% staticref "files/cv/Ravi-Pappu-Work-Experience.pdf" %}}Work Experience (pdf){{% /staticref %}} 
+
 {{% staticref "files/cv/Ravi-Pappu-Research-Teaching-Publications.pdf" %}}Research, Teaching, and Publications (pdf){{% /staticref %}}
 
 ### Selected awards
