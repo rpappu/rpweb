@@ -50,12 +50,14 @@ My [Erdos Number](https://oakland.edu/enp/thedata/) is 3. (Paul Erdos &#8594; Le
 
 ### CV
 
-{{% staticref "files/cv/Ravi-Pappu-Work-Experience.pdf" %}}Work Experience (pdf){{% /staticref %}} &#8226; {{% staticref "files/cv/Ravi-Pappu-Research-Teaching-Publications.pdf" %}}Research, Teaching, and Publications (pdf){{% /staticref %}}
+{{% staticref "files/cv/Ravi-Pappu-Work-Experience.pdf" %}}Work Experience (pdf){{% /staticref %}} 
+<br>
+{{% staticref "files/cv/Ravi-Pappu-Research-Teaching-Publications.pdf" %}}Research, Teaching, and Publications (pdf){{% /staticref %}}
 
 ### Selected awards
 
 [MIT Technology Review's TR35 2003](http://www2.technologyreview.com/tr35/profile.aspx?trid=415)
-&#8226; [40 Under 40, Boston Business Journal, 2008](https://webcache.googleusercontent.com/search?q=cache:DtbFnsQNykgJ:https://www.bizjournals.com/boston/stories/2008/08/11/daily23.html+&cd=4&hl=en&ct=clnk&gl=us) &#8226; [Carl T. Humphrey Memorial Award for Leadership in the Engineering Profession, Villanova University, 2004 ](https://www1.villanova.edu/villanova/engineering/alumnisociety/awards/pastrecipients.html)
+<br>[40 Under 40, Boston Business Journal, 2008](https://webcache.googleusercontent.com/search?q=cache:DtbFnsQNykgJ:https://www.bizjournals.com/boston/stories/2008/08/11/daily23.html+&cd=4&hl=en&ct=clnk&gl=us) <br> [Carl T. Humphrey Memorial Award for Leadership in the Engineering Profession, Villanova University, 2004 ](https://www1.villanova.edu/villanova/engineering/alumnisociety/awards/pastrecipients.html)
 
 <!-- **Expertise**:
 
