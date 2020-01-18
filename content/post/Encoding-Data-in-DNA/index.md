@@ -1,7 +1,7 @@
 +++
 title = "Encoding Data in DNA"
 date = 2018-12-02T19:33:50-05:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ravi Pappu"]
@@ -31,10 +31,6 @@ categories = []
 
 +++
 
----
-katex: true
-markup: "mmark"
----
 
 The following
 
@@ -43,3 +39,6 @@ $$\int_{a}^{b} x^2 dx$$
 Is an integral
 
 Integrate $$\int x^3 dx$$
+
+If $a^2=b$ and \( b=2 \), then the solution must be either
+$$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \]
