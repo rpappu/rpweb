@@ -172,10 +172,10 @@ paginate = 10
 #      url = "#teaching"
 #      weight = 4
 
-    # [[menu.main]]
-    #   name = "Posts"
-    #   url = "/post"
-    #   weight = 3
+    [[menu.main]]
+       name = "Posts"
+       url = "/post"
+       weight = 6
 
     [[menu.main]]
       name = "Talks"
