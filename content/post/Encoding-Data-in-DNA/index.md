@@ -28,4 +28,18 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
 +++
+
+---
+katex: true
+markup: "mmark"
+---
+
+The following
+
+$$\int_{a}^{b} x^2 dx$$
+
+Is an integral
+
+Integrate $$\int x^3 dx$$
