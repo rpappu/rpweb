@@ -1,6 +1,6 @@
 +++
 title = "ExplOrs: Explanation oracles and the architecture of explainability"
-date = 2020-01-01
+date = 2020-05-01
 authors = ["R. Pappu"]
 publication_types = ["4"]
 abstract = ""
