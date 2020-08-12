@@ -1,7 +1,7 @@
 +++
 title = "D3 - A system for recording complex experiments with an extension of SigMF"
 date = 2018-01-01
-authors = ["A. Mohan", "R. Pappu"]
+authors = ["A. Mohan", "R. Pappu", "S. Shadmand"]
 publication_types = ["1"]
 abstract = ""
 selected = "false"
