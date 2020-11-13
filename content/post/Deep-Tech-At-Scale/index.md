@@ -24,7 +24,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "The figure is a representation of the Mission Economy. The four blue nodes on the left represent our IC partners and the blue edges emanating from them represent demand for specific technology capabilities which are represented by the brown nodes. The green nodes on the right represent startups and the green edges emanating from them represent supply of technology capabilities. The thickness of the blue edges is proportional to the amount of demand for a specific capability and the size of brown nodes is proportional to the sum of the demand and supply.
+  caption = "The figure is a representation of the Mission Economy. The four blue nodes on the left represent our IC partners and the blue edges emanating from them represent demand for specific technology capabilities which are represented by the brown nodes. The green nodes on the right represent startups and the green edges emanating from them represent supply of technology capabilities. The thickness of the blue edges is proportional to the amount of demand for a specific capability and the size of brown nodes is proportional to the sum of the demand and supply."
 
 "
 
