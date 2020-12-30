@@ -1,5 +1,5 @@
 +++
-title = "Penn and Tellex in a Box"
+title = "Penn and Teller in a Box"
 date = 2020-08-11T19:33:50-05:00
 draft = false
 mathjax = true
