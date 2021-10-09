@@ -40,7 +40,7 @@ weight = 10
 
 ## Scientist &#8226; Entrepreneur &#8226; Technology Executive
 
- I am CTO at [InQTel](http://iqt.org), where I work long-term technology strategy and roadmaps, tools to systematically understand technology innovation, and diligence for deep tech investments. I occasionally advise the [Woods Hole Oceanographic Institution](http://whoi.edu) on an [ambitious project](http://www.whoi.edu/news-release/MooreAward) to bring a scalable approach to ocean exploration.
+ I am CTO at [InQTel](http://iqt.org), where I work long-term technology strategy and roadmaps, [https://www.iqt.org/organizing-deep-tech-at-scale/](tools to systematically understand technology innovation), and diligence for deep tech investments Quantum Information Science, AI, IoT, and 5G. I am also a Senior Commercializaton Advisor at [IQT Emerge](https://www.iqt.org/emerge/) where I work with DARPA-funded startups on commercialization strategies. 
 
 Prior to this, as a platform architect at [Trimble Navigation](https://www.trimble.com), I designed, prototyped, and led the implementation of a [high-performance distributed sensing and IoT and analytics](https://www.trimble.com/fsm/index.aspx) platform. I went to Trimble from [ThingMagic](http://meche.mit.edu/news-media/catching-radio-waves), a venture-backed pioneer in the RFID/IoT space that I co-founded. ThingMagic was [acquired by Trimble Navigation](https://www.trimble.com/news/release.aspx?id=102510a).
 
