@@ -40,19 +40,13 @@ weight = 10
 
 ## Scientist &#8226; Entrepreneur &#8226; Technology Executive
 
- I am CTO at [InQTel](http://iqt.org), where I work long-term technology strategy and roadmaps, tools to systematically understand technology innovation, and diligence for deep tech investments. I occasionally advise the [Woods Hole Oceanographic Institution](http://whoi.edu) on an [ambitious project](http://www.whoi.edu/news-release/MooreAward) to bring a scalable approach to ocean exploration.
+ I am SVP and CTO at [InQTel](http://iqt.org), where I work long-term technology strategy and roadmaps, tools to systematically understand technology innovation, and diligence for deep tech investments. I occasionally advise the [Woods Hole Oceanographic Institution](http://whoi.edu) on an [ambitious project](http://www.whoi.edu/news-release/MooreAward) to bring a scalable approach to ocean exploration.
 
 Prior to this, as a platform architect at [Trimble Navigation](https://www.trimble.com), I designed, prototyped, and led the implementation of a [high-performance distributed sensing and IoT and analytics](https://www.trimble.com/fsm/index.aspx) platform. I went to Trimble from [ThingMagic](http://meche.mit.edu/news-media/catching-radio-waves), a venture-backed pioneer in the RFID/IoT space that I co-founded. ThingMagic was [acquired by Trimble Navigation](https://www.trimble.com/news/release.aspx?id=102510a).
 
 As a scientist (Ph.D., MIT 2001), I have worked on [original and influential contributions](https://scholar.google.com.au/citations?user=h8YeWokAAAAJ&hl=en) to several fields. I am a science/technology/mathematics omnivore and really enjoy bringing my skills to bear on solving challenging problems at the intersection of science, technology, and product development. I am equally comfortable synthesizing a technology/product vision as I am executing it.
 
 My [Erdos Number](https://oakland.edu/enp/thedata/) is 3. (Paul Erdos &#8594; Leonard Schulman &#8594; Benjamin Recht &#8594; Ravi Pappu)
-
-### CV
-
-{{% staticref "files/cv/Ravi-Pappu-Work-Experience.pdf" %}}Work Experience (pdf){{% /staticref %}}
-<br>
-{{% staticref "files/cv/Ravi-Pappu-Research-Teaching-Publications.pdf" %}}Research, Teaching, and Publications (pdf){{% /staticref %}}
 
 ### Selected awards
 
