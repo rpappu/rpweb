@@ -1,5 +1,5 @@
 [build]
-  command = "rm -rf themes/* && git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke && echo -e 'baseURL = \"/\"\ntitle = \"Ravi Pappu\"\ntheme = \"ananke\"' > config.toml && hugo"
+  command = "rm -rf themes/* && git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke && hugo"
   publish = "public"
 
 [build.environment]
