@@ -1,4 +1,4 @@
-build]
+[build]
   command = "cp themes/academic/exampleSite/content/home/hero.md content/home/ && rm -rf content/publication && hugo"
   publish = "public"
 
