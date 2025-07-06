@@ -1,3 +1,9 @@
 baseURL = "/"
 title = "Ravi Pappu"
 theme = "ananke"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[params]
+  author = "Ravi Pappu"
+  description = "Personal website of Ravi Pappu"
