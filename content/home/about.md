@@ -2,10 +2,17 @@
 # About/Biography widget.
 widget = "about"
 active = true
+headless = true
 date = 2016-04-20T00:00:00
+
+
+author = "admin"
 
 # Order that this section will appear in.
 weight = 10
+
+[design.background]
+
 
 # List your academic interests.
 #  interests = [
