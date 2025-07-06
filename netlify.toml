@@ -1,6 +1,6 @@
 [build]
-  command = "rm -rf themes/academic themes/wowchemy && git clone https://github.com/gcushen/hugo-academic.git themes/academic && ls -la themes/academic/ && find themes/academic -name 'config*' -o -name 'example*' | head -10"
+  command = "rm -rf themes/* && git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke && echo -e 'baseURL = \"/\"\ntitle = \"Ravi Pappu\"\ntheme = \"ananke\"' > config.toml && hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.68.3"
+  HUGO_VERSION = "0.111.3"
