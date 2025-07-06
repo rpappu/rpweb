@@ -1,6 +1,9 @@
 [build]
-  command = "rm -rf content && cp -r themes/academic/exampleSite/content . && rm -rf content/publication && hugo"
   publish = "public"
+  command = "hugo --gc --minify"
 
 [build.environment]
-  HUGO_VERSION = "0.74.3"
+  HUGO_VERSION = "0.111.3"
+
+[context.production.environment]
+  HUGO_ENV = "production"
