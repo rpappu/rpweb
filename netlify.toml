@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --ignorePath='content/publication/.*'"
+  command = "mv content/publication content/publication-disabled && hugo"
   publish = "public"
 
 [build.environment]
