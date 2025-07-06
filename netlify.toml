@@ -1,9 +1,6 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "rm -rf themes/wowchemy && git clone https://github.com/gcushen/hugo-academic.git themes/academic && hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
-
-[context.production.environment]
-  HUGO_ENV = "production"
+  HUGO_VERSION = "0.68.3"

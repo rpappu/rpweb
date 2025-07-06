@@ -2,7 +2,7 @@
 baseurl = "/"
 title = "Ravi Pappu"
 copyright = "&copy; Ravi Pappu 2018"
-theme = "wowchemy/starters/academic-cv"
+theme = "academic"
 
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
