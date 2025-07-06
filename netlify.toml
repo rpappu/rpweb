@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --ignoreFiles='content/publication/.*'"
+  command = "command = "hugo --ignorePath='content/publication/.*'"
   publish = "public"
 
 [build.environment]
