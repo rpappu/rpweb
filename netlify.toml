@@ -1,5 +1,5 @@
 [build]
-  command = "ls -la themes/academic/layouts/ && ls -la themes/academic/layouts/partials/ | head -10 && hugo"
+  command = "rm -rf content/publication && ls -la themes/academic/layouts/ && ls -la themes/academic/layouts/partials/ | head -10 && hugo"
   publish = "public"
 
 [build.environment]
