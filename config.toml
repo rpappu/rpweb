@@ -1,8 +1,9 @@
 # The URL of your website.
+theme = "academic"
 baseurl = "/"
 title = "Ravi Pappu"
 copyright = "&copy; Ravi Pappu 2018"
-theme = "academic"
+
 
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
