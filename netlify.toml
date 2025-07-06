@@ -1,5 +1,5 @@
 [build]
-  command = "rm -rf themes/wowchemy && git clone https://github.com/gcushen/hugo-academic.git themes/academic && hugo"
+  command = "rm -rf themes/wowchemy && git clone https://github.com/gcushen/hugo-academic.git themes/academic && hugo && ls -la public/ && cat public/index.html | head -10"
   publish = "public"
 
 [build.environment]
