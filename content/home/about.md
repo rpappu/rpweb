@@ -40,9 +40,11 @@ weight = 10
 
 ## Scientist &#8226; Entrepreneur &#8226; Technology Executive
 
- I am SVP and CTO at [InQTel](http://iqt.org), where I work long-term technology strategy and roadmaps, [tools to systematically understand technology innovation](https://www.iqt.org/organizing-deep-tech-at-scale/), and diligence for deep tech investments in Quantum Information Science, AI, IoT, and 5G. I am also a Senior Commercializaton Advisor at [IQT Emerge](https://www.iqt.org/emerge/) where I work with DARPA-funded startups on commercialization strategies. 
+I am CEO of [Apeiron Labs](https://www.apeironlabs.com), a venture-backed startup that is working to reduce the cost of ocean monitoring by orders of magnitude. 
+ 
+Until mid-2022, I was SVP and CTO at [InQTel](http://iqt.org), where I work long-term technology strategy and roadmaps, [tools to systematically understand technology innovation](https://www.iqt.org/organizing-deep-tech-at-scale/), and diligence for deep tech investments in Quantum Information Science, AI, IoT, and 5G. I helped co-found and was a Senior Commercializaton Advisor at [IQT Emerge](https://www.iqt.org/emerge/) where I worked with DARPA-funded startups on commercialization strategies. Emerge was spun out of In-Q-Tel in early 2023.
 
-Prior to this, as a platform architect at [Trimble Navigation](https://www.trimble.com), I designed, prototyped, and led the implementation of a [high-performance distributed sensing and IoT and analytics](https://www.trimble.com/fsm/index.aspx) platform. I went to Trimble from [ThingMagic](http://meche.mit.edu/news-media/catching-radio-waves), a venture-backed pioneer in the RFID/IoT space that I co-founded. ThingMagic was [acquired by Trimble Navigation](https://www.trimble.com/news/release.aspx?id=102510a).
+Prior to this, I was a platform architect at [Trimble Navigation](https://www.trimble.com). I went to Trimble from [ThingMagic](http://meche.mit.edu/news-media/catching-radio-waves), a venture-backed pioneer in the RFID/IoT space that I co-founded. ThingMagic was [acquired by Trimble Navigation](https://www.trimble.com/news/release.aspx?id=102510a).
 
 As a scientist (Ph.D., MIT 2001), I have worked on [original and influential contributions](https://scholar.google.com.au/citations?user=h8YeWokAAAAJ&hl=en) to several fields. I am a science/technology/mathematics omnivore and really enjoy bringing my skills to bear on solving challenging problems at the intersection of science, technology, and product development. I am equally comfortable synthesizing a technology/product vision as I am executing it.
 

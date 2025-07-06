@@ -18,11 +18,11 @@ paginate = 10
 [params]
   # AUTHOR SETUP
   name = "Ravi Pappu"
-  role = "CTO"
+  role = "CEO"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "InQTel", url = "http://iqt.org" }]
+  organizations = [ { name = "Apeiron Labs", url = "https://apeironlabs.com" }]
 
   avatar = "rp-profile.png"  # delete value to disable avatar.
 
