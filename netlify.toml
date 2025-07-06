@@ -1,5 +1,5 @@
 [build]
-  command = "rm -rf themes/* && git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke && hugo"
+  command = "hugo"
   publish = "public"
 
 [build.environment]

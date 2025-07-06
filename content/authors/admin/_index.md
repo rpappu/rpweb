@@ -1,6 +1,4 @@
-
-
-yaml---
+---
 # Display name
 title: Ravi Pappu
 
