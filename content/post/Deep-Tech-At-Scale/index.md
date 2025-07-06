@@ -35,6 +35,6 @@ How can a small group of technologists and investors think about and organize th
 
 Full post at the link below.
 
-[Organizing Deep Tech at Scale: A Technology Architecture Approach](https://www.iqt.org/organizing-deep-tech-at-scale/)
+[Organizing Deep Tech at Scale: A Technology Architecture Approach](https://www.iqt.org/library/organizing-deep-tech-at-scale-a-technology-architecture-approach)
 
 
