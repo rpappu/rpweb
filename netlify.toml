@@ -1,5 +1,5 @@
 [build]
-  command = "rm -f content/_index.md && cp themes/academic/exampleSite/content/home/* content/home/ && rm -rf content/publication && hugo --verbose 2>&1 | grep -i 'home\\|index\\|layout' | head -10 && hugo"
+  command = "rm -rf content && cp -r themes/academic/exampleSite/content . && rm -rf content/publication && hugo"
   publish = "public"
 
 [build.environment]
