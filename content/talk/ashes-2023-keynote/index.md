@@ -50,7 +50,7 @@ url_pdf = "https://github.com/rpappu/pdf-publications/blob/master/AshesKeyNoteFi
 url_slides = ""
 url_video = ""
 url_code = ""
-url_custom = ""
+url_custom = []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
