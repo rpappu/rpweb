@@ -1,6 +1,9 @@
 [build]
-  command = "ls -la themes/ && ls -la themes/wowchemy/ && hugo"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.111.3"
+
+[context.production.environment]
+  HUGO_ENV = "production"
