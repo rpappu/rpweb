@@ -12,9 +12,7 @@ draft = false
 authors = ["R. Pappu"]
 
 # Abstract and optional shortened version.
-abstract = "For over twenty years, Physical Unclonable Functions (PUFs) have spurred innovation in hardware security, giving rise to novel systems, protocols, attacks, and a deeper understanding of extracting entropy from the inherent disorder in physical structures. Despite this progress, a crucial gap remains.
-
-In this talk, I'll recount the (un)fortunate events that led me to discover PUFs and share key highlights of PUF research since. Looking back from a vantage point twenty years in the future, I'll explore some desired results required to bridge the gap and establish a theoretical framework for unclonability."
+abstract = "For over twenty years, Physical Unclonable Functions (PUFs) have spurred innovation in hardware security, giving rise to novel systems, protocols, attacks, and a deeper understanding of extracting entropy from the inherent disorder in physical structures. Despite this progress, a crucial gap remains. In this talk, I'll recount the (un)fortunate events that led me to discover PUFs and share key highlights of PUF research since. Looking back from a vantage point twenty years in the future, I'll explore some desired results required to bridge the gap and establish a theoretical framework for unclonability."
 abstract_short = ""
 
 # Name of event and optional event URL.
