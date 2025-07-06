@@ -2,7 +2,8 @@
 baseurl = "/"
 title = "Ravi Pappu"
 copyright = "&copy; Ravi Pappu 2018"
-theme = "academic"
+theme = "wowchemy/modules/wowchemy/v5"
+
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
