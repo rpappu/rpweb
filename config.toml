@@ -152,7 +152,7 @@ paginate = 10
 
     [[menu.main]]
       name = "Home"
-      url = "#about"
+      url = "/"
       weight = 1
 
 
