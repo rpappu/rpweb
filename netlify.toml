@@ -1,5 +1,5 @@
 [build]
-  command = "mv content/publication content/publication-disabled && hugo"
+  command = "ls -la themes/academic/layouts/ && ls -la themes/academic/layouts/partials/ | head -10 && hugo"
   publish = "public"
 
 [build.environment]
