@@ -1,5 +1,5 @@
 [build]
-  command = "cp themes/academic/exampleSite/content/_index.md content/_index.md && rm -rf content/publication && hugo"
+  command = "ls -la themes/academic/exampleSite/content/ && ls -la themes/academic/exampleSite/content/home/ && rm -rf content/publication && hugo"
   publish = "public"
 
 [build.environment]
